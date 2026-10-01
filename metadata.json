@@ -1,0 +1,6 @@
+{
+  "name": "Animated Hero Component",
+  "description": "An interactive animated hero section for SMB trade using shadcn UI, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
